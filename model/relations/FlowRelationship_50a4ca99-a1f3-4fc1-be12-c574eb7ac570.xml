@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow "
+    id="50a4ca99-a1f3-4fc1-be12-c574eb7ac570">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_cfa69735-2eb2-485d-8fc5-833af65ef154.xml#cfa69735-2eb2-485d-8fc5-833af65ef154"/>
+  <target
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_b4a96be6-86f2-427c-8877-dc501b860ef2.xml#b4a96be6-86f2-427c-8877-dc501b860ef2"/>
+</archimate:FlowRelationship>

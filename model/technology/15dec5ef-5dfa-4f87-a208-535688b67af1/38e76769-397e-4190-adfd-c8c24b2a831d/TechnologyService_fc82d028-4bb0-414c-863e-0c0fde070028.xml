@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SUB - Subscriptions Mgmt "
+    name="SUB - Subscriptions Mgmt GUI"
     id="fc82d028-4bb0-414c-863e-0c0fde070028"
     documentation="Browse, Create, Delete Subscriptions&#xD;&#xA;"/>
