@@ -106,7 +106,7 @@
         targetConnections="bbde629f-f193-4a5b-94d4-0102fbf1e3c7 41ad6685-fb1a-4f1a-8c49-c66cd8e92e52 40c9ad0a-79a9-4435-ae5c-84ae86f473ec">
       <bounds
           x="24"
-          y="60"
+          y="48"
           width="385"
           height="55"/>
       <archimateElement
@@ -170,6 +170,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="05b2225d-c2d7-4769-a52c-f0300d06d7b2"
+        textPosition="2"
         source="ca5e2624-ae87-430c-afd5-73ab515aa2f7"
         target="308b5b4a-101b-4b4e-95fc-02fe3ad6d7b4">
       <archimateRelationship

@@ -34,9 +34,9 @@
           href="AssignmentRelationship_5872d239-7e7b-4d17-99c3-1cd178905c0f.xml#5872d239-7e7b-4d17-99c3-1cd178905c0f"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="48"
         y="600"
-        width="648"
+        width="684"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -45,7 +45,7 @@
       <bounds
           x="48"
           y="60"
-          width="325"
+          width="469"
           height="55"/>
       <archimateElement
           xsi:type="archimate:TechnologyFunction"
@@ -128,9 +128,9 @@
           href="AssignmentRelationship_3a56d4df-d783-4b16-b513-7a861843dc8e.xml#3a56d4df-d783-4b16-b513-7a861843dc8e"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="48"
         y="492"
-        width="253"
+        width="289"
         height="39"/>
     <archimateElement
         xsi:type="archimate:TechnologyInterface"
@@ -230,9 +230,9 @@
           href="FlowRelationship_50a4ca99-a1f3-4fc1-be12-c574eb7ac570.xml#50a4ca99-a1f3-4fc1-be12-c574eb7ac570"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="48"
         y="384"
-        width="253"
+        width="289"
         height="55"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
