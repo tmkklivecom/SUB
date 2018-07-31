@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Access "
-    id="eba85a16-5776-49dc-9577-84d8f30fd4f1">
+    id="2d4e4ea3-9c27-4324-a71d-67ebbc99928a">
   <source
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_e06fc87a-890b-4505-9a93-f82f5e80f683.xml#e06fc87a-890b-4505-9a93-f82f5e80f683"/>
   <target
       xsi:type="archimate:Artifact"
-      href="Artifact_6c0698fc-0a9e-45c5-9f1d-62b61e214ef9.xml#6c0698fc-0a9e-45c5-9f1d-62b61e214ef9"/>
+      href="Artifact_3cf65c2a-1963-43bb-84c3-a40c92d7a943.xml#3cf65c2a-1963-43bb-84c3-a40c92d7a943"/>
 </archimate:AccessRelationship>

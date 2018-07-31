@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Providing Subscribed Data Service"
-    id="313bb528-4994-49b2-8383-57bddf6a4951">
+    id="313bb528-4994-49b2-8383-57bddf6a4951"
+    documentation="Subscriber gets the ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="89b87863-37ad-49c1-aeb4-6c2519ffc879">
