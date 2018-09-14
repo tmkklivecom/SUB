@@ -10,7 +10,7 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="12"
+        y="216"
         width="337"
         height="181"/>
     <children
@@ -45,7 +45,7 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="216"
+        y="420"
         width="337"
         height="217"/>
     <children
@@ -92,7 +92,7 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="456"
+        y="660"
         width="337"
         height="289"/>
     <children
@@ -142,6 +142,28 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_db1cc50e-a9da-4928-832e-17e6d0197b83.xml#db1cc50e-a9da-4928-832e-17e6d0197b83"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="b6ac36b6-e58e-4494-8be8-789f04d88cbe"
+      name="Motivation">
+    <bounds
+        x="24"
+        y="24"
+        width="325"
+        height="145"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="660df86d-1d13-40c4-862d-56262f3e239d">
+      <bounds
+          x="36"
+          y="48"
+          width="241"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_d01d6766-7ebf-4da0-be0d-cdf41a8374ea.xml#d01d6766-7ebf-4da0-be0d-cdf41a8374ea"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
