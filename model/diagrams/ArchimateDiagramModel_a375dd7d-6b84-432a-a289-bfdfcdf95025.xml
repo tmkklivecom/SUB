@@ -147,7 +147,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="b6ac36b6-e58e-4494-8be8-789f04d88cbe"
-      name="Motivation">
+      name="Motivation"
+      textAlignment="1">
     <bounds
         x="24"
         y="24"
